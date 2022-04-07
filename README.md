@@ -7,6 +7,13 @@ BoxPacker
 [![Current version](https://img.shields.io/packagist/v/dvdoug/boxpacker.svg)](https://packagist.org/packages/dvdoug/boxpacker)
 [![Documentation](https://readthedocs.org/projects/boxpacker/badge/?version=stable)](https://www.boxpacker.io/en/stable/)
 
+```
+Fork to work with GCloud App Engine in 2022
+
+Related packagist => https://packagist.org/packages/ecom-systems/boxpacker
+
+All credit goes to DvDoug
+```
 An implementation of the "4D" bin packing/knapsack problem i.e. given a list of items, how many boxes do you need to fit
 them all in taking into account physical dimensions and weights.
 

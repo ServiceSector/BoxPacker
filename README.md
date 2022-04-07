@@ -8,7 +8,7 @@ BoxPacker
 [![Documentation](https://readthedocs.org/projects/boxpacker/badge/?version=stable)](https://www.boxpacker.io/en/stable/)
 
 ```
-Fork to work with GCloud App Engine in 2022
+Fork to work with GCloud App Engine as an API
 
 Related packagist => https://packagist.org/packages/ecom-systems/boxpacker
 
